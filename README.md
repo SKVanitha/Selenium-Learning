@@ -1,2 +1,2 @@
 # Selenium-Learning
-Practised programs
+Programs written for practice
