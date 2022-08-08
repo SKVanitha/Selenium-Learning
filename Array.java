@@ -1,5 +1,5 @@
 package org.array;
-
+//Start of the program
     //public class Array {
 	
 	
@@ -26,12 +26,12 @@ public class Array {
 		int a[]= {1,2,3,4,5,6,7,8,9,10};
 		for(int i=0;i<a.length;i++) {
 			
-			b=b+a[i];
+			b=b+a[i];// Adding array values
 			
 		}
 		
 		    c=b/a.length;
-			System.out.println(" Average is:"+c);
+			System.out.println(" Average is:"+c);// finding average for array values
 		
 	
 	}
