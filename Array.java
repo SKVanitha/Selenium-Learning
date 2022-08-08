@@ -16,6 +16,8 @@ package org.array;
 //	}
 
 //}
+
+//Example for Array
 public class Array {
 	
 	
